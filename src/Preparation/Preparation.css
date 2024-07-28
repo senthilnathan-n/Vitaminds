@@ -1,0 +1,22 @@
+.sen{
+    h1{
+        color: rgb(255, 1, 145);
+    }
+    h2{
+        color: brown;
+    }
+    h3{
+        color:rgb(7, 77, 12)
+    }
+    p{
+        color:blue
+
+    }
+    ul{
+        color: blue;
+    }
+    ol{
+        color: blue;
+
+    }
+}

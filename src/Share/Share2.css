@@ -1,0 +1,57 @@
+
+.por{
+    margin-left: 800px;
+    margin-top: 100px;
+    .sh{
+        color:rgb(19, 97, 32);
+        font-size:large;
+        font-weight: bolder;
+        
+     
+    }
+    .in1{
+        margin-left: 80px;
+        padding: 0px;
+        background-color: azure;
+    }
+    .in2{
+        margin-left: 50px;
+        padding: 0px;
+        background-color: azure;
+    }
+    .in3{
+        margin-left: 75px;
+        padding: 0px;
+        background-color: azure;
+    }
+    .in4{
+        margin-left: 85px;
+        background-color: azure;
+        padding-bottom: 20px;
+    }
+    .in5 {
+        margin-left: 20px;
+        background-color: azure;
+        width: 220px;   
+        height: 80px;
+        overflow-wrap: break-word;
+        white-space: pre-wrap;
+        text-align: left;
+    }
+    
+    
+}
+.send{
+    margin-left: 990px;
+    .by{
+        height: 40px;
+        width: 80px;
+        text-align: center;
+        background-color:burlywood;
+    }
+    .by:hover{
+        transform: scale(1.1);
+        cursor: pointer;
+
+    }
+}
